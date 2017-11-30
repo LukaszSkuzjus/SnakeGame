@@ -1,0 +1,53 @@
+body {
+  padding-top: 30px;
+  min-width: 370px;
+  min-height: 370px;
+	
+}
+
+#home {
+      width: 350px;
+      height: 350px;
+      margin: 0 auto;
+      background-image: url('https://easydrawingguides-7512.kxcdn.com/wp-content/uploads/2017/02/How-to-draw-a-cartoon-snake-20.png');
+      background-size: auto 350px;
+      background-repeat: no-repeat;
+      background-color: lightblue;
+      background-position: center center;
+      padding: 0;
+      margin: 3px;
+
+    }
+.introTextAndButton{
+  text-align: center;
+  margin: 0 auto;
+  width: 370px;
+}
+    button {
+      background-color: #12aa17;
+      color: white;
+      border: none;
+      bottom: 0;
+      height: 30px;
+      font-size: 12pt;
+      float: left;
+      width: 90px;
+      margin: 10px 0 0 0;
+    }
+    button:hover {
+      background-color: #c41fb9;
+    }
+
+    button:disabled {
+      background-color: grey;
+    }
+
+    p {
+      font-family: Helvetica;
+      font-weight: bold;
+      width: 250px;
+      margin: 18px 0 5px 8px;
+      float: left;
+    }
+
+
